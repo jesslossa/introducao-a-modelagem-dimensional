@@ -1,10 +1,4 @@
-﻿---
-id: 400
-tituloSuperior: Introdução A Modelagem Dimensional
-tituloInferior: Introdução
----
-
-# O que é modelagem dimensional?
+﻿# O que é modelagem dimensional?
 
 ​​​​​​​Modelos dimensionais são estruturas  **desnormalizadas** projetadas para consultas otimizadas dos dados. Para exemplificar, em um banco de dados criado para uma determinada aplicação temos o modelo Entidade-Relacionamento (modelos ER). Esses modelos são criados visando operações de  **INSERT**,  **DELETE** e  **UPDATE** dos dados. Já em um modelo dimensional o principal foco é a operação de  **SELECT** dos dados.
 

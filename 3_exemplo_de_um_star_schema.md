@@ -1,8 +1,3 @@
----
-tituloSuperior: Introdução A Modelagem Dimensional
-tituloInferior: Exemplo de um modelo Star Schema
----
-
 # Exemplo de um Star Schema
 
  Temos uma loja que vende instrumentos musicais. Sendo assim, precisamos entender o conceito dos dados. O que será vendido? Quais os instrumentos musicais que têm na loja? Resumindo, quais as informações que são importantes para o negócio:

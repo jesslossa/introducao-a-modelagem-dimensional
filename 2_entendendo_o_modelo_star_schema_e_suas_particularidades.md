@@ -1,9 +1,3 @@
----
-id: 400
-tituloSuperior: Introdução A Modelagem Dimensional
-tituloInferior: Entendendo o Modelo Star Schema e Suas Particularidades
----
-
 # Star Schema
 
 No **Star Schema**, a tabela fato é centralizada e as tabelas dimensões ligam-se diretamente dando a aparência de uma estrela:

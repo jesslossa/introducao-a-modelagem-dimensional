@@ -1,8 +1,3 @@
----
-tituloSuperior: Introdução A Modelagem Dimensional
-tituloInferior: Modelo Snowflake Schema
----
-
 # O que é o modelo Snowflake?
 
 O modelo de dados **Snowflake** é uma estrutura lógica de dados que facilita a análise de dados complexos. O modelo possui esse nome porque se parece visualmente com um floco de neve, devido ao relacionamento entre os dados.
